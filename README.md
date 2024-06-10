@@ -9,7 +9,7 @@ In addition to providing information, the project has mobilized a workforce of v
 
 
 reach us at <a href="https://biharcovidhelp.github.io" target="_blank">here</a>
-<img alt="Home" src="https://github.com/biharcovidhelp/biharcovidhelp.github.io/blob/main/src/static_files/images/ss/home.png?raw=true" width="100%" height="500" /> Bihar COVID Help
+<img alt="Home" src="https://github.com/biharcovidhelp/biharcovidhelp.github.io/blob/main/src/static_files/images/ss/homepage_snap.png?raw=true" width="100%" height="500" /> Bihar COVID Help
 
 ## Technologies Used
 
