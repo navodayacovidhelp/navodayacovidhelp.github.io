@@ -1,0 +1,71 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+table {
+  width: 100%;
+  margin: 20px 0;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  padding: 10px 5px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #f3f3f3;
+}
+
+#myInput {
+  width: 100%;
+  padding: 10px;
+  margin: 20px 0;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Media query for smaller screens */
+@media screen and (max-width: 600px) {
+
+  /* Stack table rows vertically */
+  tbody tr {
+    display: block;
+    margin-bottom: 10px;
+    /* Add space between rows */
+  }
+
+  /* Ensure each cell takes up full width */
+  tbody td {
+    display: block;
+    text-align: left;
+    width: 100%;
+  }
+
+  /* Hide table header on smaller screens */
+  thead {
+    display: none;
+  }
+}
